@@ -24,5 +24,21 @@ a:active { text-decoration: none; }
 
 h4::first-letter
 {
-	font-size: 150%
+	font-size: 150%;
+}
+
+dt
+{
+	color: yellow;
+	font-family: Comic Sans MS;
+}
+
+em
+{
+	color: red;
+}
+
+span
+{
+	color: yellow;
 }
