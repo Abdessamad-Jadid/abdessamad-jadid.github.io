@@ -13,7 +13,7 @@ h1 {
 }
 #title1{
     font-size: 22pt;
-    
+
 }
 body {
     background-image: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
@@ -22,7 +22,7 @@ body {
     font-size: 11pt;
     font-family: Georgia, Garamond, serif;
     line-height: 1;
-    margin-left: 5;
+    margin-left: 5px;
     padding: 0;
     font-size: 100%;
 }
